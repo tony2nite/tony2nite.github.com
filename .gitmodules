@@ -1,3 +1,6 @@
 [submodule "lights-out-chicken-cottage"]
 	path = lights-out-chicken-cottage
 	url = git://github.com/tony2nite/lights-out-chicken-cottage.git
+[submodule "web-stand-up"]
+	path = web-stand-up
+	url = git@github.com:tony2nite/web-stand-up.git
