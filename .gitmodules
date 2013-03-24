@@ -3,4 +3,4 @@
 	url = git://github.com/tony2nite/lights-out-chicken-cottage.git
 [submodule "web-stand-up"]
 	path = web-stand-up
-	url = git@github.com:tony2nite/web-stand-up.git
+	url = git://github.com/tony2nite/web-stand-up.git
